@@ -3,13 +3,13 @@
 }
 
 .datatable .col .pointer:after {
-  font-size: 80%;
+  font-size: 79%;
   content: "";
-  margin-right: 18px;
+  margin-right: 17px;
 }
 
 .datatable .col .pointer:hover:after {
-  font-size: 80%;
+  font-size: 79%;
   content: "🔻";
   margin-right: 0;
 }
